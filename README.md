@@ -10,7 +10,7 @@
 
 <div align="center">
 
-# Core Node Sosyal Medya [Twitter](https://twitter.com/0xAtaturk2)|[Discord](https://discord.gg/0xAtaturk2)
+# Sosyal Medya [Twitter](https://twitter.com/0xAtaturk2)|[Discord](https://discord.gg/0xAtaturk2)
 
 ![image](https://raw.githubusercontent.com/r0llie/Testnet-Nodes/main/banner.jpg)
 
